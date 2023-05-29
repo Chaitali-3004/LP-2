@@ -1,0 +1,12 @@
+Create React application first for this you thave node and npm present already
+then
+>npx create-react-app app-name
+=================================================
+then React Hooks Installation
+$ npm install react@16.8.0-alpha.1 --save  
+$ npm install react-dom@16.8.0-alpha.1 --save 
+=======================================
+Then Make sure the package.json file lists the React and React-DOM dependencies as given below.
+"react": "^16.8.0-alpha.1",  
+"react-dom": "^16.8.0-alpha.1",
+================================================
